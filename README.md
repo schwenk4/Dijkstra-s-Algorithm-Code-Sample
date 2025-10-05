@@ -1,3 +1,5 @@
 # Dijkstra-s-Algorithm-Code-Sample
 The code sample provided generates a maze with enemies spawned in it using Disjoint Sets and BFS traversal. Then, using Dijkstra's Algorithm the program finds the shortest path through the maze.
-This video is the video presentation describing the project assigned for the class. https://youtu.be/HqNJ91wYPBs
+This video is the video presentation describing the project assigned for the class. https://youtu.be/HqNJ91wYPBs 
+
+This was a group project, but the code provided is all mine.
